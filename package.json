@@ -1,0 +1,8 @@
+{
+    "name": "wasm-exploration",
+    "private": true,
+    "workspaces": [
+      "frontend",
+      "rust_wasm_hello_world"
+    ]
+  }
